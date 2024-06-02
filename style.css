@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Righteous&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poetsen+One&family=Righteous&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Sevillana&display=swap');
+
+
+
+#head {
+	background-color: #77BF38;
+}
+.nav-item {
+	font-family: 'Righteous';
+}
+.navbar-brand {
+	font-family: 'Righteous';
+}
+.heading {
+	font-family: 'Righteous';
+}
+.open {
+	font-family: 'Goblin One';
+}
+.para {
+	font-family: 'Lato';
+}
+.logo {
+	font-family: 'Goblin One';
+}
+.btn {
+  font-family: 'Righteous';
+}
+#ab:hover {
+	color: red;
+}
+#chat-window {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.user-message {
+    background-color: #007bff;
+    color: white;
+    text-align: right;
+}
+
+.bot-message {
+    background-color: #f1f1f1;
+    color: black;
+}
+.abs {
+	font-family: 'Lato';
+}
+
+@media screen and (max-width:645px){
+	#img {
+		width: 150px;
+	}
+	#img-2 {
+		width: 140px;
+	}
+}
